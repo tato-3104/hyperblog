@@ -1,2 +1,2 @@
-Hola, este es un archivo creado simplemente para realizar una segunda rama
-
+Hola, este es un archivo creado simplemente para realizar una segunda rama.
+Después de crear esta segunda rama quiero hacer un commit y posteriormente hacer un merge a la rama principal
